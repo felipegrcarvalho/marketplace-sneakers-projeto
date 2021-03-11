@@ -1,1 +1,5 @@
-# marketplace-sneakers-projeto
+Nosso projeto para disciplina de Desenvolvimento de Sistemas 2 é um marketplace de revenda de tênis limitados, hoje em dia a revenda de tênis considerados “raros” está ganhando muita força no Brasil e no mundo, são modelos que existem em baixa quantidade mas a procura é enorme. A compra desses tenis acontece de 3 maneiras que vão ser descritas a seguir:
+1- Lojas como a Nike, Adidas, ArtWalk, entre outras, fazem vendas relâmpago pelo site ou em lojas físicas desses pares de tênis raros por preços mais acessíveis (por volta de R$500 a R$1.200).
+2- Lojas menores de venda de tênis fazem sorteios para compra desses pares, e os sorteados tem direito a compra pelos mesmos preços oferecidos pelas lojas grandes como a Nike.
+3- Revendedores como nós , porém com menores numeros de visibilidade e menor estrutura não consguem vender o tênis pelo valor maximo possivel da revenda , entao compramos desses micro empreendedores e vendemos para nosso público com um valor maior.
+Sendo assim, como o número de pessoas interessadas nesses modelos é altíssimo o valor de revenda deles são bem mais altos, existem modelos que o preço de revenda é similar ao valor de um carro popular, e consequentimente o lucro é enorme.
